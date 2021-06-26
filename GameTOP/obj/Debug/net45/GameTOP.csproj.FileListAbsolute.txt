@@ -1,0 +1,14 @@
+C:\Users\Filipe\source\repos\GameTOP\obj\Debug\net45\GameTOP.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\GameTOP\obj\Debug\net45\GameTOP.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\GameTOP\obj\Debug\net45\GameTOP.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\GameTOP\bin\Debug\net45\GameTOP.exe
+C:\Users\Filipe\source\repos\GameTOP\bin\Debug\net45\GameTOP.pdb
+C:\Users\Filipe\source\repos\GameTOP\bin\Debug\net45\GameTOP.Interface.dll
+C:\Users\Filipe\source\repos\GameTOP\bin\Debug\net45\GameTOP.lib.dll
+C:\Users\Filipe\source\repos\GameTOP\bin\Debug\net45\GameTOP.lib.pdb
+C:\Users\Filipe\source\repos\GameTOP\bin\Debug\net45\GameTOP.Interface.pdb
+C:\Users\Filipe\source\repos\GameTOP\obj\Debug\net45\GameTOP.csproj.CopyComplete
+C:\Users\Filipe\source\repos\GameTOP\obj\Debug\net45\GameTOP.exe
+C:\Users\Filipe\source\repos\GameTOP\obj\Debug\net45\GameTOP.pdb
+C:\Users\Filipe\source\repos\GameTOP\bin\Debug\net45\GameTOP.exe.config
+C:\Users\Filipe\source\repos\GameTOP\obj\Debug\net45\GameTOP.csproj.AssemblyReference.cache

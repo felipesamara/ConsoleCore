@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "GameTOP.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "compile": {
+          "bin/placeholder/GameTOP.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTOP.Interface.dll": {}
+        }
+      },
+      "GameTOP.lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "dependencies": {
+          "GameTOP.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GameTOP.lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTOP.lib.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win7-x86": {
+      "GameTOP.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "compile": {
+          "bin/placeholder/GameTOP.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTOP.Interface.dll": {}
+        }
+      },
+      "GameTOP.lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "dependencies": {
+          "GameTOP.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GameTOP.lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTOP.lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameTOP.Interface/1.0.0": {
+      "type": "project",
+      "path": "../GameTOP.Interface/GameTOP.Interface.csproj",
+      "msbuildProject": "../GameTOP.Interface/GameTOP.Interface.csproj"
+    },
+    "GameTOP.lib/1.0.0": {
+      "type": "project",
+      "path": "../GameTOP.lib/GameTOP.lib.csproj",
+      "msbuildProject": "../GameTOP.lib/GameTOP.lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": [
+      "GameTOP.Interface >= 1.0.0",
+      "GameTOP.lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Filipe\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Filipe\\source\\repos\\GameTOP\\GameTOP.csproj",
+      "projectName": "GameTOP",
+      "projectPath": "C:\\Users\\Filipe\\source\\repos\\GameTOP\\GameTOP.csproj",
+      "packagesPath": "C:\\Users\\Filipe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Filipe\\source\\repos\\GameTOP\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Filipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "projectReferences": {
+            "C:\\Users\\Filipe\\source\\repos\\GameTOP.Interface\\GameTOP.Interface.csproj": {
+              "projectPath": "C:\\Users\\Filipe\\source\\repos\\GameTOP.Interface\\GameTOP.Interface.csproj"
+            },
+            "C:\\Users\\Filipe\\source\\repos\\GameTOP.lib\\GameTOP.lib.csproj": {
+              "projectPath": "C:\\Users\\Filipe\\source\\repos\\GameTOP.lib\\GameTOP.lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "targetAlias": "net45",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

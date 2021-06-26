@@ -1,0 +1,8 @@
+C:\Users\Filipe\source\repos\GameTOP.Interface\bin\Debug\net45\GameTOP.Interface.dll
+C:\Users\Filipe\source\repos\GameTOP.Interface\bin\Debug\net45\GameTOP.Interface.pdb
+C:\Users\Filipe\source\repos\GameTOP.Interface\obj\Debug\net45\GameTOP.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\GameTOP.Interface\obj\Debug\net45\GameTOP.Interface.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\GameTOP.Interface\obj\Debug\net45\GameTOP.Interface.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\GameTOP.Interface\obj\Debug\net45\GameTOP.Interface.dll
+C:\Users\Filipe\source\repos\GameTOP.Interface\obj\Debug\net45\GameTOP.Interface.pdb
+C:\Users\Filipe\source\repos\GameTOP.Interface\obj\Debug\net45\GameTOP.Interface.csproj.AssemblyReference.cache
